@@ -98,4 +98,3 @@ Bazı örnekler:
 | ++var | Artış Öncesi | `var a = 0, var b = 10; var a = ++b` | a = 11 ve b = 11 |
 | var-- | Azalış Sonrası | `var a = 0, var b = 10; var a = b--` | a = 10 ve b = 9 |
 | --var | Azalış Öncesi | `var a = 0, var b = 10; var a = --b` | a = 9 ve b = 9 |
-
