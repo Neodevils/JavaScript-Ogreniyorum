@@ -12,7 +12,7 @@ Hmm, JavaScript muhtemelen bunu gerçekleştiriyordu.[^1]
 
 JavaScript, web tarayıcılarında çalışan bir programlama dilidir. Çoğu web sitesi JavaScript kullanır ve işler ters gittiğinde, web geliştiricileri hataları araştırmak için konsolu kullanır.
 
-Bu derste web geliştiricisinin ana silahı hakkında bilgi edineceksiniz: **geliştirici konsolu.**[^2]
+Web geliştiricisinin ana silahı hakkında bilgi edineceksiniz: **geliştirici konsolu.**[^2]
 
   [^2]: **Konsol**, JavaScript hatalarını ve uyarılarını görüntüleyen bir penceredir.
 
@@ -25,7 +25,7 @@ Mesaj yazmak veya günlüğe kaydetmek için `console.log()` kullanabilirsiniz. 
   [^3]: Mesaj konsola `console.log()` fonksiyonu kullanılarak yazılır.
 
 ```javascript
-console.log('No errors, all good.');
+console.log('Hata yok, her şey yolunda.');
 ```
 
 ## Metin mesajları
