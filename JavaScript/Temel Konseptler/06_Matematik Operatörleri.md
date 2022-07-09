@@ -77,7 +77,7 @@ document.write(x); // 0
 
 > Bekle bir dakika artışı duydum gibi de, azaltma ne be?
 
-Bazılarınız bunu söylediğini duyuyorum gibi. :D
+Bazılarınız bunu söylediğini duyuyorum gibi. 😅
 
 ### Artış ++
 
