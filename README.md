@@ -1,3 +1,3 @@
 # GitHub'ta Kodlama Öğreniyorum
 
-Dalları kontrol ederek istediğin derse başlayabilirsin.
+Klasörleri inceleyerek, kodlama öğrenmeyi daha kolaylaştırabilirsiniz. 
