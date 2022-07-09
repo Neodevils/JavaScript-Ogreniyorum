@@ -20,7 +20,7 @@ Bu, JavaScript'te **x = y**'nin **y** değerini **x** değişkenine atadığı a
 
 Tamam, öğrendiklerimizi bir araya getirelim!
 
-Bir değişkene bir değer atayalım ve tarayıcıya çıktısını alalım. Bu halledebiliriz!
+Bir değişkene bir değer atayalım ve tarayıcıya çıktısını alalım. Bunu yaparız ya!
 
 ```javascript
 var x = 10;
