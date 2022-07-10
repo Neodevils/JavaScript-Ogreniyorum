@@ -47,7 +47,7 @@ fonksiyonum();
 
 ```javascript
 function fonksiyonum() {
-  alert("Alert box!");
+  alert("Alarm kutusu!");
 }
 
 fonksiyonum();
