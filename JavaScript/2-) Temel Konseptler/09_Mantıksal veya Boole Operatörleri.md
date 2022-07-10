@@ -44,7 +44,7 @@ değişken = (koşul) ? değer1 : değer2;
 var yaş = 42;
 var yetişkinMi = ( yaş < 18 ) ? "Çok genç.": "Yetişkin.";
 
-document.write(yetişkinMi);
+document.write(yetişkinMi); // Çok genç.
 ```
 
 Yaş değişkeni 18'in altında bir değerse, yetişkinMi değişkeninin değeri "Çok genç" olacaktır. Aksi takdirde yetişkinMi'nin değeri "Yetişkin." olacaktır.[^2]
