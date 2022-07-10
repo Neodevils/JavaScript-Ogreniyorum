@@ -23,7 +23,7 @@ var numara1 = 7;
 var numara2 = 10;
 
 if (numara1 < numara2) {
-  alert("JavaScript'i öğrenmek kolaydır.");
+  alert("JavaScript'i öğrenmek kolaydır."); // çalışır.
 }
 ```
 
@@ -36,7 +36,7 @@ var numara1 = 7;
 var numara2 = 10;
 
 if (numara1 > numara2) {
-  alert("JavaScript'i öğrenmek kolaydır.");
+  alert("JavaScript'i öğrenmek kolaydır."); // çalışmaz
 }
 ```
 
