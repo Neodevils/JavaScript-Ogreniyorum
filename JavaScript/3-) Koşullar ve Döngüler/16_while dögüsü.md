@@ -1,4 +1,4 @@
-# while (aynı zamanda) Döngüsü
+# `while` aynı zamanda döngüsü
 
 
 **while** ile, üç döngü ifademizin ikincisine geçme zamanı.[^1]

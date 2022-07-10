@@ -1,4 +1,4 @@
-# else (değilse) İfadesi
+# `else` değilse ifadesi
 
 Doğru, if ifadesini kullanan bir kod bloğu false olarak değerlendirdiğinde eylemin atlandığını gördük. 
 

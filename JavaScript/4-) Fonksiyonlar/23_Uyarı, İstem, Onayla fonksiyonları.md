@@ -2,7 +2,7 @@
 
 JavaScript, Uyarı, İstem ve Onayla kutuları olmak üzere üç tür açılır kutu sunar.
 
-## Uyarı Kutusu
+## `alert()` Uyarı Kutusu
 
 Bilginin kullanıcıya ulaşmasını sağlamak istediğinizde bir **uyarı kutusu** kullanabiliriz.
 
@@ -24,7 +24,7 @@ alert("Selam!\nNasılsın?");
 
   [^1]: Kullanıcı, yalnızca Tamam'ı tıkladıktan sonra sayfayı kullanmaya devam edebileceğinden, uyarı kutularını kullanırken dikkatli ol.
 
-## İstem Kutusu
+## `prompt()` İstem Kutusu
 
 Kullanıcının bir sayfaya girmeden önce bir değer girmesini sağlamak için genellikle bir **bilgi istemi kutusu** kullanılır.
 
@@ -38,14 +38,14 @@ Kullanıcı Tamam'ı tıklatırsa, kutu **giriş değerini** döndürür. Kullan
 **Örnek:**
 
 ```javascript
-var kullanici = prompt("Lütfen kullanıcı ismini gir.");
+var kullanici = prompt("Lütfen kullanıcı ismini gir.", "NeoAIChan");
 
 alert(kullanici);
 ```
 
   [^2]: Bir istem kutusu açıldığında, kullanıcının bir giriş değeri girdikten sonra devam etmek için "Tamam" veya "İptal"e tıklaması gerekir. Bu yöntemi aşırı kullanma, çünkü kutu kapanana kadar kullanıcının sayfanın diğer bölümlerine erişmesini engelliyor.
 
-## Onay Kutusu
+## `confirm()` Onay Kutusu
 
 Kullanıcının bir şeyi doğrulamasını veya kabul etmesini sağlamak için genellikle bir **onay kutusu** kullanılır.
 Bir onay kutusu açıldığında, kullanıcının devam etmek için Tamam veya İptal'i tıklaması gerekir.

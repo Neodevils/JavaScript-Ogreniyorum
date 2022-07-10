@@ -1,4 +1,4 @@
-# do...while (yaparken) Döngüsü
+# `do...while` yaparken döngüsü
 
 Döngülerle işin neredeyse bitti! Harika gidiyorsun! 😀
 

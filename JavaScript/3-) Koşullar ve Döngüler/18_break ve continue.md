@@ -1,4 +1,4 @@
-# break (ara)
+# `break` ara anahtar kelimesi
 
 Bu modülde daha önce *break* deyimiyle tanışmıştık, onu bir döngüden **"atlamak"** için kullanıyorduk ve döngüden sonra kodu çalıştırmaya devam ettiriyorduk.[^1]
 
@@ -18,7 +18,7 @@ for (i = 0; i <= 10; i++) {
 
   [^1]: Bir işlevin içindeki döngüden hemen bir değer döndürmek için *return* anahtar sözcüğünü kullanabilirsiniz. Bu da döngüyü kıracaktır.
 
-# continue (devam et)
+# `continue` devam etme anahtar kelimesi
 
 Modül 3'ü neredeyse bitirdik! Kapatılacak son bir şey kaldı.
 

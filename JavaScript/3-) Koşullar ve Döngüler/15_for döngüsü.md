@@ -22,7 +22,7 @@ Ve işte çalıştığında ne olacağını aşağıda açıkladık:
 
 [^1]: Gördüğünüz gibi, **klasik for döngüsünün üç** bileşeni veya ifadesi vardır.
 
-## for (için) Döngüsü
+## `for` için döngüsü
 
 Şimdi teoriyi anladık, gelin bir özel örneğe bakalım.
 

@@ -1,4 +1,4 @@
-# if (eğer) İfadesi
+# `if` eğer ifadesi
 
 Aferin! Büyük ilerleme kaydediyorsun. 😁
 

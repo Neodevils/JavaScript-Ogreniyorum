@@ -1,4 +1,4 @@
-# return
+# `return` döndür ifadesi
 
 Bir fonksiyon, isteğe bağlı bir `return` ifadesine sahip olabilir. Fonksiyondan bir değer döndürmek için kullanılır.
 

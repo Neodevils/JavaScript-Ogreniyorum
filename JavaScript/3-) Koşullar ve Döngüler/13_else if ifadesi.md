@@ -1,4 +1,4 @@
-# else if (yoksa) ifadesi
+# `else if` yoksa ifadesi
 
 **Değilse**yi gördük, **eğer**i de gördük, gördük, **yoksa** ile buluşmanın zamanı geldi.
 
