@@ -23,7 +23,7 @@ Bu, yukarıdaki kodda olan şeydir:
 - aksi takdirde, ders 2'ye eşitse, "CSS Eğitimi" çıktısını alırız;
 - yukarıdaki koşullardan hiçbiri doğru değilse, "JavaScript Eğitimi" çıktısını alırız.
 
-ders 1'e eşittir, bu nedenle aşağıdaki `HTML Eğitimi` çıktısını alırız.[^3]
+ders 1'e eşittir, bu nedenle `HTML Eğitimi` çıktısını alırız.[^3]
 
   [^3]: Son *else* ifadesi, *else if* ifadesini "bitirir" ve her zaman *if* ve *else if* ifadelerinden sonra yazılmalıdır.
 
