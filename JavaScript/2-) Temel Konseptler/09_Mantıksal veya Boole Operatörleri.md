@@ -12,10 +12,6 @@ Mantıksal operatörler **(VE, VEYA, DEĞİL)** hakkında daha fazla ayrıntı g
 | `\|\|` | İşlenenlerden biri doğruysa true döndürür |
 | `!` | İşlenenler yanlışsa true, işlenenler doğruysa false döndürür |
 
-Bir örneğe bakalım. Burada AND operatörüne iki Boole ifadesi bağladık.
-
-## Mantıksal operatörler
-
 Bir örneğe bakalım. Burada **AND** operatörüne iki Boole ifadesi bağladık.
 
 ```javascript
