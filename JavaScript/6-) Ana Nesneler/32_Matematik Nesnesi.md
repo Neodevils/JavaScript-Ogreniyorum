@@ -44,9 +44,9 @@ Math nesnesi, hesaplamalar için kullanılan birkaç yöntem içerir[^2]
 | **tan(x)** | Tanjantı |
 
 ```javascript	
-var number = Math.sqrt(4); 
+var rakam = Math.sqrt(4); 
 
-document.write(number); // 2 (4'in karekökü)
+document.write(rakam); // 2 (4'in karekökü)
 ```
 
   [^2]: 1-10 arasında rastgele bir sayı elde etmek için, size 0-1 arasında bir sayı veren Math.random()'u kullanın. Ardından sayıyı 10 ile çarpın ve ardından Math.ceil()'i ondan alın: Math.ceil(Math.random() * 10).
