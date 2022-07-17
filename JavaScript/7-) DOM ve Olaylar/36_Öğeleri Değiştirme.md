@@ -1,5 +1,5 @@
 # Nitelikleri Değiştirme
-
+ 
 Çalışmak istediğiniz eleman(lar)ı seçtikten sonra niteliklerini değiştirebilirsiniz.
 
 Önceki derslerde gördüğümüz gibi **innerHTML** özelliğini kullanarak bir elemanın metin içeriğini değiştirebiliriz.
