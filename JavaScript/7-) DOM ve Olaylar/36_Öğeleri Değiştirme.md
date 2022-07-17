@@ -30,17 +30,16 @@ Bir bağlantının **href** niteliğini değiştirebiliriz:
 
   <body>
     <a href="http://www.ornek.com">Bir link.</a>
+
+    <script>
+    window.onload = function() {
+      var element = document.getElementsByTagName('a');
+
+      element[0].href= 'https://discord.gg/AzmQGCyk';
+    } //HTML'nin yüklendiğinden emin olmak için window.onload'da işlevi çağırma
+    </script>
   </body>
-
 </html>
-
-<script>
-window.onload = function() {
-  var element = document.getElementsByTagName('a');
-
-  element[0].href= 'https://discord.gg/AzmQGCyk';
-} //HTML'nin yüklendiğinden emin olmak için window.onload'da işlevi çağırma
-</script>
 ```
 
 > Pratik olarak bir elemanın tüm nitelikleri JavaScript kullanılarak değiştirilebilir.
@@ -63,16 +62,16 @@ Tüm stil niteliklerine, öğenin **style** nesnesi kullanılarak erişilebilir.
 
   <body>
     <div id="demo" style="width: 200px">biraz metin</div>
+
+    <script>
+      window.onload = function() {
+        var x = document.getElementById("demo");
+
+        x.style.color = '#FF0000';
+        x.style.width = '100px';
+      }; //Yazı rengini kırmızı yapıp genişliğini 100px yapmak için window.onload'da işlevi çağırdık
+    </script>
   </body>
-
-  <script>
-    window.onload = function() {
-      var x = document.getElementById("demo");
-
-      x.style.color = '#FF0000';
-      x.style.width = '100px';
-    }; //Yazı rengini kırmızı yapıp genişliğini 100px yapmak için window.onload'da işlevi çağırdık
-  </script>
 </html>
 ```
 
