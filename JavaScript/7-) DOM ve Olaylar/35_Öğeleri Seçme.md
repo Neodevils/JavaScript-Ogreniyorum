@@ -110,7 +110,7 @@ function metinAyarla() {
   var a = document.getElementById("demo");
   var dizi = a.childNodes;
   
-  for(var x = 0; x < arr.length; x++) {
+  for(var x = 0; x < dizi.length; x++) {
     dizi[x].innerHTML = "yeni metin";
   }
 }
