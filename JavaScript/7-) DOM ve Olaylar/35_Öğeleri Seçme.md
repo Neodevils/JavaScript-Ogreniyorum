@@ -102,7 +102,7 @@ DOM'deki her öğenin, DOM'deki ilişkileri hakkında bilgi sağlayan bir dizi �
   </body>
 </html>
 ```
-
+ 
 *JavaScript kodu*
 
 ```javascript
