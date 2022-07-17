@@ -6,7 +6,9 @@ Doğru, if ifadesini kullanan bir kod bloğu false olarak değerlendirdiğinde e
 
 Eh, elbette "else" ifadesini kullanıyoruz!
 
-Koşul **yanlış**sa yürütülecek bir kod bloğu belirtmek için `else` ifadesini kullanabiliriz. Bunun gibi:
+Koşul **yanlış**sa yürütülecek bir kod bloğu belirtmek için `else` ifadesini kullanabiliriz.[^1]
+
+Bunun gibi:
 
 ```javascript	
 if (koşul) {
@@ -37,5 +39,5 @@ Bu örneği tercüme edelim. Diyor ki:
 
 Böylece tarayıcı, 7'nin 10'dan büyük olmadığı için ikinci koşulu yazdıracaktır.[^2]
 
-  [^2]: kullanarak bu kontrolü yapmanın başka bir yolu var mı? `operatör: a > b ? alert(a) : alert(b).`
+  [^2]: Bu kontrolü yapmanın başka bir yolu var mı? Evet, şöyle: `operatör: a > b ? alert(a) : alert(b).`
 
