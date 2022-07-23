@@ -2,11 +2,11 @@
 
 HTML DOM'de olay yaymanın iki yolu vardır: **köpürme** ve **yakalama**. 
 
-Olay yayılımı, bir olay meydana geldiğinde eleman sırasının tanımlanmasına izin verir. Bir <div> öğesinin içinde bir <p> öğeniz varsa ve kullanıcı <p> öğesini tıklarsa, önce hangi öğenin "click (tıklanma)" olayı ele alınmalıdır?
+Olay yayılımı, bir olay meydana geldiğinde eleman sırasının tanımlanmasına izin verir. Bir \<div> öğesinin içinde bir \<p> öğeniz varsa ve kullanıcı \<p> öğesini tıklarsa, önce hangi öğenin "click (tıklanma)" olayı ele alınmalıdır?
 
-**Köpürmede**, önce en içteki elemanın olayı işlenir ve sonra dış elemanın olayı işlenir. Önce <p> öğesinin tıklama olayı, ardından <div> öğesinin tıklama olayı işlenir.
+**Köpürmede**, önce en içteki elemanın olayı işlenir ve sonra dış elemanın olayı işlenir. Önce \<p> öğesinin tıklama olayı, ardından \<div> öğesinin tıklama olayı işlenir.
 
-**Yakalamada**, önce en dıştaki öğenin olayı, ardından içteki olay ele alınır.  Önce <div> öğesinin tıklanma olayı, ardından <p> öğesinin tıklanma olayı işlenir.[^1]
+**Yakalamada**, önce en dıştaki öğenin olayı, ardından içteki olay ele alınır.  Önce \<div> öğesinin tıklanma olayı, ardından \<p> öğesinin tıklanma olayı işlenir.[^1]
 
   [^1]: Yakalama, DOM'den aşağı iner.  Kabarcıklanma DOM'da yükselir.
   
