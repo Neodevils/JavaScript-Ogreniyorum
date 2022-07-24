@@ -1,4 +1,4 @@
-# `Swtich` geçiş ifadesi
+# `swtich` geçiş ifadesi
 
 Peki ya birden fazla koşul için test yapmanız gerekirse? Bu durumlarda, her koşul için **if else** ifadesi yazmak en iyi çözüm olmayabilir.
 
