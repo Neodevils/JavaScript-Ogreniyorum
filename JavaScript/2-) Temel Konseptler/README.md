@@ -1,3 +1,3 @@
 # Temel Konseptler
 
-Bu klasörde Boole, aritmetik operatörler ve karşılaştırma operatörleri hakkında bilgimiz olacak! 🙌🏻 
+Bu klasörde Boole, aritmetik operatörler, atama operatörleri ve karşılaştırma operatörleri hakkında bilgimiz olacak! 🙌🏻 
