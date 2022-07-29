@@ -76,12 +76,12 @@ console.log(kullanici); // Object { ozel: "Neo", kullanici_1234: "0987" } dönde
 ```javascript
 var i = 0;
 var a = {
-  ['ahmak' + ++i]: i,
-  ['ahmak' + ++i]: i,
-  ['ahmak' + ++i]: i
+  ['bilgi' + ++i]: i,
+  ['bilgi' + ++i]: i,
+  ['bilgi' + ++i]: i
 }
 
-console.log(a); // Object { ahmak1: 1, ahmak2: 2, ahmak3: 3 } dönderir
+console.log(a); // Object { bilgi1: 1, bilgi2: 2, bilgi3: 3 } dönderir
 ```
 
 ###### Üçüncü Örnek:
