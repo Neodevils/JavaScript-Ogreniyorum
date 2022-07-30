@@ -22,7 +22,7 @@ const kare = new Dikdortgen(5, 5);
 const poster = new Dikdortgen(2, 3);
 ```
 
-  [^1]: İşlev Bildirgeleri yapılırken Sınıf Bildirimleri **kaldırılmaz**. Bildirmeden önce sınıfınıza erişmeye çalışırsanız `**ReferenceError**` döndürülür.
+  [^1]: İşlev Bildirgeleri yapılırken Sınıf Bildirimleri **kaldırılmaz**. Bildirmeden önce sınıfınıza erişmeye çalışırsanız **`ReferenceError`** döndürülür.
   
 Ayrıca, sınıfın adlandırılabileceği veya adlandırılamayacağı bir **sınıf ifadesi** ile bir sınıf tanımlayabilirsiniz.
 
